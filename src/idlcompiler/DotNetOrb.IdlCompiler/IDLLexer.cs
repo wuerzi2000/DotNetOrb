@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from D:/DotNetOrb/src/idlcompiler/IDL.Grammar/IDLLexer.g4 by ANTLR 4.13.1
+// Generated from G:/DotNetOrb/DotNetOrb/src/idlcompiler/IDL.Grammar/IDLLexer.g4 by ANTLR 4.13.1
 
 // Unreachable code detected
 #pragma warning disable 0162
