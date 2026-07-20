@@ -668,7 +668,7 @@ namespace DotNetOrb.Core.IIOP
         }
 
 
-        public override List<ListenPoint> AsListenPoints()
+        public override IEnumerable<ListenPoint> AsListenPoints()
         {
             var result = new List<ListenPoint>();
 
